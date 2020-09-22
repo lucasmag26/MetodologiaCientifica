@@ -1,1 +1,7 @@
-# MetodologiaCientifica
+# Metodologia Cientifica
+
+°Problema:
+
+°Motivação:
+
+°Solução:
