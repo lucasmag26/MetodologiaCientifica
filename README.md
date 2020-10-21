@@ -1,4 +1,5 @@
 # Metodologia Cientifica
+O uso de inteligência artificial para ajudar Daltônicos à distinguirem cores
 
 °Problema
 No Brasil existem mais de 2 milhões de pessoas portadoras de  Daltonismo, doença geneticamente hereditária e irreversível, predominantemente no sexo masculino.  Geralmente, o diagnóstico se descobre  na infância, através  da percepção da dificuldade que a criança tem ao trocar ou confundir as cores. Apesar de ser uma doença muito comum, pouco se investe para ajudar os Daltônicos em tarefas cotidianas simples, por exemplo, comprar roupas, pintar um desenho ou pegar um objeto que seja referenciado pela sua cor.
